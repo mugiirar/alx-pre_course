@@ -1,2 +1,4 @@
 My first readme
-Updated
+Modified
+Simpllified
+
